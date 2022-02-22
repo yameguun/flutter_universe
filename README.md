@@ -1,4 +1,4 @@
-# flutter_universe
+# Flutter Universe
 
 A new Flutter project.
 
